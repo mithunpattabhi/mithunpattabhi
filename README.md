@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi, I'm Mithun 👋
 
-<!--
-**mithunpattabhi/mithunpattabhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a third-year AI/ML undergraduate focused on building applied machine learning systems and real-world ML projects.
 
-Here are some ideas to get you started:
+### 🔹 Recent Projects
+- 🎮 Game Image Classification using EfficientNet (TensorFlow + Streamlit)
+- 💻 Laptop Health Diagnostic Tool (ML + Flask)
+- 🌆 Bangalore Land Price Prediction (Machine Learning Web App)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔹 Technical Interests
+- Machine Learning & Computer Vision
+- Deep Learning with TensorFlow
+- ML model deployment & APIs (FastAPI, Streamlit)
+
+### 🔹 Currently Learning
+- FastAPI for ML backends
+- Open-source contribution workflows
+
+📫 Reach me:
+- Email: mithunpattabhi004@gmail.com
+- LinkedIn: https://www.linkedin.com/in/mithun-pattabhi-b001172a7/?trk=opento_sprofile_topcard
